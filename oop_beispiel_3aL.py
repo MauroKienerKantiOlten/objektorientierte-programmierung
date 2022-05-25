@@ -17,4 +17,6 @@ hans.in_schule_gehen()
 frida.in_schule_gehen()
 
 print(f"Hans hat eine Energie von {hans.energie}")
+
+
 print(f"Frida hat eine Energie von {frida.energie}")
